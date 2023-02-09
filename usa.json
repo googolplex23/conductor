@@ -1,0 +1,13 @@
+{
+    "nodes": [
+        {
+            "name": "Calgary",
+            "index": 0,
+            "destinations": [
+                { 
+                    "index": 1,
+                    "color": "g",
+                    "distance": 1,
+                },
+                
+}
